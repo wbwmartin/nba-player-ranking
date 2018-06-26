@@ -1,0 +1,406 @@
+rank,nickname,firstname,lastname,total
+1,Air,Michael,Jordan,2000
+2,Cap,Kareem,Abdul-Jabbar,1915
+3,NULL,Bill,Russell,1507
+4,King,LeBron,James,1453
+5,"The Big Dipper",Wilt,Chamberlain,1361
+6,"The Big Fundamental",Tim,Duncan,1319
+7,"Black Mamba",Kobe,Bryant,1297
+8,Shaq,Shaquille,O'Neal,1289
+9,Magic,Earvin,Johnson,1261
+10,"The Dream",Hakeem,Olajuwon,1089
+11,"The Houdini of the Hardwood",Bob,Cousy,1077
+12,NULL,Larry,Bird,1055
+13,"Dr. J",Julius,Erving,989
+14,Hondo,John,Havlicek,939
+15,"Chairman of the Boards",Moses,Malone,894
+16,"The Mailman",Karl,Malone,824
+17,"Slim Reaper",Kevin,Durant,813
+18,"Big O",Oscar,Robertson,797
+19,"The Admiral",David,Robinson,770
+20,"Big Blue",Bob,Pettit,750
+21,KG,Kevin,Garnett,706
+22,"Mr. Clutch",Jerry,West,648
+23,"The German Race Car",Dirk,Nowitzki,641
+24,"The Engine",Jason,Kidd,627
+25,"The Miami Greyhound",Rick,Barry,627
+26,"The A-Train",Artis,Gilmore,625
+27,"Baby-Faced Assassin",Stephen,Curry,580
+28,"Mr. Basketball",George,Mikan,575
+29,NULL,John,Stockton,571
+30,NULL,Scottie,Pippen,571
+31,"The Answer",Allen,Iverson,559
+32,Flash,Dwyane,Wade,557
+33,NULL,Steve,Nash,538
+34,"The Captain",Willis,Reed,501
+35,CP3,Chris,Paul,489
+36,"Sir Charles",Charles,Barkley,478
+37,Superman,Dwight,Howard,475
+38,NULL,Dolph,Schayes,470
+39,Zeke,Isiah,Thomas,467
+40,"The Glove",Gary,Payton,462
+41,"The Worm",Dennis,Rodman,460
+42,NULL,Mel,Daniels,434
+43,"The Brodie",Russell,Westbrook,422
+44,NULL,Bob,McAdoo,415
+45,"Bullseye Bill",Bill,Sharman,404
+46,NULL,Dikembe,Mutombo,391
+47,"The Wide U",Wes,Unseld,381
+48,"Big Red",Bill,Walton,377
+49,"Big Ben",Ben,Wallace,374
+50,"Mr. Inside",Elgin,Baylor,373
+51,"The Big E",Elvin,Hayes,371
+52,"The Beard",James,Harden,360
+53,"Big Mac",George,McGinnis,359
+54,"The Truth",Paul,Pierce,356
+55,Iceman,George,Gervin,351
+56,Clyde,Walt,Fraizer,341
+57,"Big Red",Dave,Cowens,336
+58,NULL,Patrick,Ewing,335
+59,NULL,Sam,Jones,326
+60,"The Chief",Robert,Parish,325
+61,"The Stallion",Spencer,Haywood,323
+62,NULL,Dennis,Johnson,323
+63,Gabby,Neil,Johnston,321
+64,NULL,Paul,Arizin,310
+65,Tiny,Nate,Archibald,302
+66,Horse,Dan,Issel,293
+67,Zo,Alonzo,Mourning,288
+68,"The Claw",Kawhi,Leonard,285
+69,"Fiery Francophile",Tony,Parker,283
+70,"The Kangaroo Kid",Billy,Cunningham,273
+71,NULL,Joe,Dumars,270
+72,"The Human Highlight Film",Dominique,Wilkins,269
+73,"Jesus Shuttlesworth",Ray,Allen,258
+74,"Black Hole",Kevin,McHale,249
+75,"Clyde the Glide",Clyde,Drexler,247
+76,"Mr. Memory",Jerry,Lucas,240
+77,"Mr. Big Shot",Chauncey,Billups,235
+78,Melo,Carmelo,Anthony,230
+79,"Easy Ed",Ed,Macauley,228
+80,NULL,Hal,Greer,227
+81,T-Mac,Tracy,McGrady,225
+82,"Tommy Gun",Tom,Heinsohn,225
+83,Dugie,Slater,Martin,223
+84,"Meal Ticket",Pau,Gasol,219
+85,NULL,"K.C. ",Jones,216
+86,Satch,Tom,Sanders,216
+87,NULL,Bobby,Jones,214
+88,"Big Shot Rob",Robert,Horry,211
+89,Johnny,Rajon,Rondo,208
+90,"The Kangaroo Kid",Jim,Pollard,205
+91,NULL,Alvin,Robertson,204
+92,Hawk,Connie,Hawkins,204
+93,"The Kentucky Colonel",Frank,Ramsey,200
+94,"Big Time James",James,Worthy,199
+95,NULL,"Jo Jo",White,199
+96,"Jumpin' Joe",Joe,Fulks,198
+97,NULL,Mark,Eaton,197
+98,Rock,Mitch,Richmond,194
+99,Unibrow,Anthony,Davis,193
+100,Duke,Dave,Bing,192
+101,"The Harrisburg Houdini",Bob,Davies,192
+102,NULL,Maurice,Cheeks,189
+103,NULL,Louie,Dampier,187
+104,"The Blade",Alex,English,186
+105,NULL,Dave,DeBusschere,182
+106,Day-Day,Draymond,Green,182
+107,NULL,Derrick,Rose,181
+108,"Air Canada",Vince,Carter,181
+109,"The Squid",Sydney,Moncrief,178
+110,Boo,Don,Buse,177
+111,NULL,Chris,Webber,173
+112,NULL,Vern,Mikkelsen,172
+113,"Tim Bug",Tim,Hardaway,172
+114,NULL,Andre,Iguodala,171
+115,NULL,Andy,Phillip,170
+116,Bells,Walt,Bellamy,168
+117,NULL,Buck,Williams,167
+118,NULL,Adrian,Dantley,166
+119,NULL,Chris,Bosh,165
+120,NULL,Nate,Thurmond,164
+121,NULL,DeAndre,Jordan,164
+122,Pistol,Pete,Maravich,162
+123,NULL,Mack,Calvin,160
+124,NULL,Charlie,Scott,159
+125,"The Matrix",Shawn,Marion,157
+126,"Uncle Reg",Reggie,Miller,155
+127,NULL,Bernald,King,155
+128,"Ron Artest",Metta,"World Peace",155
+129,NULL,Amar'e,Stoudemire,155
+130,"The Thief",Mookie,Blaylock,151
+131,NULL,Lenny,Wilkens,151
+132,NULL,Chris,Mullin,151
+133,G-Money,Grant,Hill,149
+134,NULL,Tyson,Chandler,148
+135,NULL,Paul,Westphal,147
+136,NULL,Michael,Cooper,146
+137,Goldilocks,Jack,Sikma,145
+138,Skywalker,David,Thompson,144
+139,"The Grindfather",Marcus,Camby,143
+140,Action,Mark,Jackson,142
+141,NULL,Kevin,Johnson,141
+142,NULL,Jimmy,Jones,141
+143,NULL,Bob,Lanier,138
+144,NULL,Kevin,Love,136
+145,NULL,Bailey,Howell,134
+146,"The Wizard",Gus,Williams,133
+147,Honeycomb,Gus,Johnson,131
+148,"The General",Horace,Grant,131
+149,NULL,Donnie,Freeman,131
+150,NULL,Clyde,Lovellette,130
+151,"Sugar Ray",Micheal,"Ray Richardson",129
+152,NULL,Brian,Taylor,127
+153,"The Beard",Baron,Davis,125
+154,NULL,Derek,Fisher,124
+155,"The Rajah",Roger,Brown,124
+156,NULL,Manu,Ginobli,124
+157,"The Storm",Norm,Nixon,124
+158,Hollywood,Ron,Harper,123
+159,Slats,Max,Zaslofsky,122
+160,"Big Z",Zelmo,Beaty,121
+161,Stumpy,Gail,Goodrich,121
+162,NULL,Guy,Rodgers,121
+163,NULL,Larry,Jones,121
+164,"The Prince of Darkness",Bill,Laimbeer,120
+165,NULL,Jermaine,O'Neal,119
+166,NULL,Cliff,Hagan,119
+167,NULL,Larry,Foust,119
+168,Pops,Caldwell,Jones,117
+169,NULL,Deron,Williams,117
+170,"The Pearl",Earl,Monroe,117
+171,NULL,Carl,Braun,117
+172,NULL,Norm,"Van Lier",116
+173,NULL,Ron,Boone,115
+174,NULL,Bill,Melchionni,115
+175,"The Horse",Harry,Gallatin,114
+176,NULL,Don,Nelson,113
+177,NULL,Glen,Rice,112
+178,NULL,Swen,Nater,112
+179,Ice,Steve,Kerr,110
+180,NULL,Paul,Silas,109
+181,NULL,Richie,Guerin,109
+182,NULL,Blake,Griffin,108
+183,"La Tanqueta",Marc,Gasol,107
+184,Bird,George,Yardley,107
+185,"The Great Wall",Yao,Ming,106
+186,NULL,Stephon,Marbury,106
+187,NULL,Terry,Cummings,106
+188,Hooks,Bobby,Wanzer,106
+189,Tricky,Dick,McGuire,106
+190,PG-13,Paul,George,105
+191,NULL,Elton,Brand,105
+192,"Reign Man",Shawn,Kemp,105
+193,"Hot Rod",Rod,Strickland,105
+194,NULL,Larry,Brown,104
+195,"The Whale",Willie,Naulls,104
+196,Cornbread,Cedric,Maxwell,104
+197,NULL,LaMarcus,Aldridge,103
+198,NULL,Damian,Lillard,103
+199,NULL,Ralph,Simpson,102
+200,"The Enforcer",Maurice,Lucas,101
+201,NULL,Warren,Jabali,100
+202,NULL,Jack,Twyman,100
+203,NULL,Mark,Price,100
+204,Stilts,Arnie,Risen,100
+205,NULL,Joakim,Noah,98
+206,NULL,Willie,Wise,98
+207,Boogie,DeMarcus,Cousins,97
+208,"Optimus Dime",John,Wall,96
+209,NULL,Larry,Costello,96
+210,"The Stifle Tower",Rudy,Gobert,96
+211,NULL,Tree,Rollins,95
+212,NULL,Peja,Stojakovic,95
+213,NULL,Maurice,Stokes,92
+214,"Big Smokey",Klay,Thompson,91
+215,NULL,Marques,Johnson,91
+216,NULL,Andre,Miller,90
+217,"Agent Zero",Gilbert,Arenas,90
+218,"The Jet",Chet,Walker,89
+219,NULL,Clifford,Robinson,88
+220,"Uncle Drew",Kyrie,Irving,88
+221,NULL,Larry,Nance,87
+222,Z-Bo,Zach,Randolph,87
+223,"The Beak",Alex,Groza,87
+224,NULL,Bruce,Bowen,86
+225,NULL,Charles,Oakley,85
+226,"Pocket Rocket",Calvin,Murphy,85
+227,Penny,Anfernee,Hardaway,85
+228,Ziggy,Mark,Aguirre,85
+229,NULL,Red,Robbins,85
+230,NULL,George,Johnson,84
+231,NULL,Bill,Bridges,84
+232,"The Whopper",Billy,Paultz,83
+233,NULL,Eddie,Jones,83
+234,"Sweet Lou",Lou,Hudson,83
+235,"Iso Jo",Joe,Johnson,82
+236,"The Jet",Jason,Terry,82
+237,NULL,Sam,Cassell,82
+238,NULL,Jamal,Crawford,81
+239,"Lamar Mundane",Dale,Ellis,80
+240,Greyhound,Walter,Davis,79
+241,"Air Congo",Serge,Ibaka,79
+242,NULL,Fat,Lever,79
+243,NULL,Gene,Shue,79
+244,"Big Penguin",Andre,Drummond,78
+245,AK47,Andrei,Kirilenko,78
+246,NULL,Tom,Chambers,77
+247,NULL,Theo,Ratliff,77
+248,NULL,Randy,Smith,76
+249,Mooney,Billy,Knight,76
+250,NULL,Ralph,Sampson,74
+251,NULL,Dan,Roundfield,74
+252,NULL,Latrell,Sprewell,74
+253,NULL,Freddie,Lewis,73
+254,"Mr. All-Around",Tom,Gola,73
+255,NULL,Doug,Moe,72
+256,NULL,Terry,Porter,71
+257,NULL,DeMar,DeRozan,71
+258,Red,Johnny,Kerr,71
+259,NULL,Paul,Seymour,71
+260,NULL,Jeff,Hornacek,70
+261,Pogo,Joe,Cardwell,70
+262,NULL,Bob,Netolicky,69
+263,NULL,Jimmy,Butler,68
+264,Threezus,Kyle,Korver,67
+265,NULL,Reggie,Theus,66
+266,"Captain Late",James,Silas,66
+267,Daggers,Brandon,Roy,65
+268,NULL,Rasheed,Wallace,65
+269,Devo,Kevin,Willis,63
+270,Greyhound,Bob,Dandrige,62
+271,"The Wall",Wayne,Embry,61
+272,NULL,Doug,Christie,61
+273,NULL,Carlos,Boozer,60
+274,NULL,Otis,Thorpe,60
+275,NULL,Kiki,Vandeweghe,60
+276,NULL,John,Beasley,60
+277,Toine,Antonie,Walker,60
+278,NULL,Al,Horford,59
+279,NULL,Ralph,Beard,58
+280,"The Greek Freak",Giannis,Antetokounmpo,58
+281,Butterbean,Bob,Love,58
+282,NULL,John,Lucas,57
+283,Silk,Jamaal,Wilkes,57
+284,NULL,Juwan,Howard,57
+285,"The Grindfather",Tony,Allen,57
+286,"Raan Cheg",Manute,Bol,57
+287,NULL,Andrew,Bynum,56
+288,NULL,Antawn,Jamison,56
+289,NULL,Derrick,Coleman,55
+290,NULL,Kyle,Lowry,55
+291,"The Grand Teuton",Detlef,Schrempf,55
+292,NULL,Vin,Baker,54
+293,Truck,Leonard,Robinson,54
+294,NULL,Victor,Oladipo,54
+295,Spider,Jerry,Sloan,53
+296,NULL,Gerald,Wallace,53
+297,NULL,Rickey,Green,53
+298,"King in the Fourth",Isaiah,Thomas,52
+299,Grandmama,Larry,Johnson,52
+300,NULL,Darel,Carrier,51
+301,NULL,Jerry,Stackhouse,51
+302,"Nick the Quick",Nick,"Van Exel",50
+303,NULL,Vlade,Divac,49
+304,NULL,Steve,Francis,49
+305,"Big Dukie",Brad,Daugherty,49
+306,Ironman,A.C.,Green,49
+307,NULL,Derek,Harper,49
+308,Dice,Antonio,McDyess,49
+309,NULL,Mike,Miller,48
+310,"Special K",Karl-Anthony,Towns,48
+311,Bird,Otis,Birdsong,48
+312,Slammin,Sam,Lacey,48
+313,"Mighty Mouse",Damon,Stoudamire,46
+314,K,Larry,Kenon,45
+315,"Pork Chop",Jeff,Mullins,45
+316,NULL,Quinn,Buckner,45
+317,"The Process",Joel,Embiid,45
+318,NULL,Phil,Chenier,44
+319,NULL,Hersey,Hawkins,44
+320,NULL,Johnny,Moore,44
+321,NULL,Ricky,Rubio,43
+322,"The Anchorman",Paul,Millsap,43
+323,NULL,Monta,Ellis,43
+324,NULL,Sidney,Wicks,43
+325,NULL,Phil,Smith,43
+326,"Agent Block",Hassan,Whiteside,42
+327,NULL,Dick,Garmaker,42
+328,NULL,Terry,Dischinger,42
+329,NULL,Scott,Wedman,42
+330,NULL,Geoff,Petrie,40
+331,NULL,Johnny,Green,39
+332,NULL,Richard,Hamilton,38
+333,NULL,Rudy,LaRusso,37
+334,NULL,Mel,Hutchins,37
+335,NULL,"Joe Barry",Carroll,37
+336,NULL,Jeff,Malone,37
+337,"D Square",Dale,Davis,36
+338,Batman,Danny,Granger,35
+339,NULL,Rudy,Tomjanovich,35
+340,Thunder,Dan,Majerle,35
+341,Dukes,James,Donaldson,35
+342,NULL,Roy,Hibbert,34
+343,NULL,Steve,Jones,34
+344,Monster,Jamal,Mashburn,34
+345,NULL,Alvan,Adams,34
+346,NULL,Jack,Coleman,34
+347,"Tuff Juice",Caron,Butler,33
+348,Tip,George,Thompson,33
+349,"The Original Sun",Dick,"Van Arsdale",33
+350,NULL,John,Starks,33
+351,NULL,Brook,Lopez,32
+352,NULL,Shareef,Abdur-Rahim,32
+353,NULL,Rashard,Lewis,31
+354,"Big Cat",P.J.,Brown,31
+355,NULL,Phil,Ford,31
+356,NULL,Glen,Combs,30
+357,NULL,Tom,"Van Arsdale",30
+358,NULL,Cincinnatus,Powell,30
+359,NULL,John,Drew,30
+360,NULL,Don,Ohl,29
+361,NULL,Stew,Johnson,29
+362,NULL,Jim,Paxson,29
+363,NULL,Kelly,Tripucka,28
+364,NULL,Fred,Brown,28
+365,NULL,Jrue,Holiday,27
+366,"The Dunking Dutchman",Rik,Smits,27
+367,NULL,JaVale,McGee,26
+368,NULL,Rolando,Blackman,26
+369,NULL,David,West,26
+370,Batman,Shane,Battier,26
+371,"Croatian Sensation",Toni,Kukoc,26
+372,NULL,Mahmoud,Abdul-Rauf,26
+373,NULL,Mike,Mitchell,26
+374,Odie,Adrian,Smith,25
+375,NULL,Doug,Collins,25
+376,"The Dragon",Goran,Dragic,25
+377,Ninja,Sean,Elliott,24
+378,NULL,Ben,Simmons,24
+379,NULL,Michael,Adams,23
+380,"The Rifleman",Chuck,Person,23
+381,"Dr. Dunkenstein",Darrell,Griffith,23
+382,Bullet,Bob,Boozer,23
+383,NULL,Jeff,Teague,22
+384,NULL,Byron,Beck,22
+385,"The Boston Strangler",Andrew,Toney,22
+386,NULL,Michael,Carter-Williams,20
+387,Horse,Bob,Kauffman,20
+388,Duck,Don,Chaney,20
+389,NULL,Byron,Scott,20
+390,NULL,Antonio,Davis,20
+391,NULL,Rodney,Seikaly,19
+392,"Mozart of the Hoops",Drazen,Petrovic,19
+393,"Maple Jordan",Andrew,Wiggins,18
+394,NULL,Tyreke,Evans,17
+395,NULL,Purvis,Short,17
+396,NULL,Josh,Howard,16
+397,Mad,Vernon,Maxwell,16
+398,Jinx,Jalen,Rose,16
+399,House,Rich,Jones,16
+400,NULL,Brad,Davis,15
+401,NULL,Tayshaun,Prince,14
+402,NULL,T.R.,Dunn,13
+403,NULL,Derrick,McKey,13
+404,NULL,Gordon,Hayward,12
+405,NULL,Clint,Capela,9
